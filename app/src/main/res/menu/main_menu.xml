@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/display_balance"
+        android:id="@+id/displaybalance"
+        />
+    <item
+        android:title="@string/widthrawl"
+        android:id="@+id/widthrawl"
+        />
+    <item
+        android:title="@string/deposit"
+        android:id="@+id/deposit"
+        />
+</menu>

@@ -1,3 +1,11 @@
 <resources>
+    <!--App Name-->
     <string name="app_name">My Personal Wallet</string>
+
+    <!--MainMenu Items-->
+    <string name="display_balance">Display Balance</string>
+    <string name="widthrawl">Widthrawl</string>
+    <string name="deposit">Deposit</string>
+
+    <string name="const_balance">Balance</string>
 </resources>
