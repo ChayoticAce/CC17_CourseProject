@@ -1,4 +1,6 @@
 package com.chayoticace.cc17_courseproject_mypersonalwallet.models
 
-class Account (var balance:Double){
+import com.chayoticace.cc17_courseproject_mypersonalwallet.TransactionDeposit
+
+class Account (var deposit: Double, var widthrawl: Double, var balance:Double){
 }
